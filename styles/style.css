@@ -1,0 +1,58 @@
+html {
+    background-color: bisque;
+    font-family: "Oswald", sans-serif
+}
+#contactbar {
+    position: fixed;
+}
+h1 {
+    font-size: 45px;
+    color: bisque;
+    text-align: center;
+}
+.centerpane {
+    text-align: center;
+    width: 600px;
+    margin: 0px auto;
+    padding: 0 20px 20px 20px;
+    color:brown;
+    background-color: darksalmon;
+}
+.rightpane {
+    right: 75%;
+}
+.leftpane {
+    left: 75%;
+}
+#profilepic {
+    border-radius: 50%;
+    width:200px;
+}
+.lilogo {
+    width: 100px;
+}
+table {
+    margin: 0px auto;
+    padding: 0px;
+    width: 100%;
+    background-color: coral;
+    text-align: center;
+}
+th {
+    font-size: 26px;
+    color: brown;
+    margin: 0px;
+    padding: 5px;
+    width: 33%;
+}
+td {
+    font-size: 18px;
+    color:rgb(46, 3, 3);
+    border: 5px solid rgb(46, 3, 3);
+    margin: 0px;
+    padding: 0px;
+}
+
+ol, ul {
+    list-style-position: inside;
+}
