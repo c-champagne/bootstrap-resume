@@ -2,6 +2,12 @@ html {
     background-color: bisque;
     font-family: "Oswald", sans-serif
 }
+
+#profilepic {
+    border-radius: 50%;
+    width:200px;
+}
+/* Original CSS
 #contactbar {
     position: fixed;
 }
@@ -56,3 +62,4 @@ td {
 ol, ul {
     list-style-position: inside;
 }
+*/
